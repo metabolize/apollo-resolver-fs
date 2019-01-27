@@ -10,8 +10,10 @@
 [prettier]: https://prettier.io/
 
 A resolver function for [Apollo Server][] which loads serialized data from
-local files. Designed as a companion to [apollo-resolver-gcs][] for local
-testing.
+local files.
+
+Designed for local testing as a companion to the Google Cloud Storage version
+[apollo-resolver-gcs][].
 
 Based on the example server in the Apollo Server 2 [Getting Started][] guide.
 
