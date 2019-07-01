@@ -1,6 +1,6 @@
 {
   "name": "apollo-resolver-fs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A resolver function for Apollo Server which loads serialized data from local files",
   "main": "src/fs-resolver.js",
   "scripts": {
