@@ -2,6 +2,7 @@
   "name": "apollo-resolver-fs",
   "version": "0.1.1",
   "description": "A resolver function for Apollo Server which loads serialized data from local files",
+  "repository": "metabolize/apollo-resolver-fs",
   "main": "src/fs-resolver.js",
   "scripts": {
     "prettier": "prettier --write \"**/*.@(js|md|yml|json)\"",
@@ -44,7 +45,7 @@
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "graphql-request": "^2.0.0",
+    "graphql-request": "2.1.0-next.1",
     "mocha": "^8.0.1",
     "npm-run-all": "^4.1.3",
     "prettier": "^2.0.5",
